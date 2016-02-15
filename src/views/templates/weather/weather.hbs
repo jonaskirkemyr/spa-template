@@ -1,0 +1,21 @@
+<div class="weather">
+
+{{#each weather}}
+
+<h3>{{day}} - {{date}}</h3>
+
+    <table class="details">
+    {{#if temperature}}
+    <tr>
+        <td>Temperature</td>
+        <td>{{temperature}} &#8451;</td>
+    </tr>
+    {{/if}}
+
+    </table>
+</div>
+
+{{else}}
+    <h4>No weather info provided</h4>
+{{/each}}
+

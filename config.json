@@ -1,0 +1,13 @@
+{
+    "project": {
+        "name": "SPA-template",
+        "url": "http://localhost",
+        "version": "0.1.0"
+    },
+    "copyright": {
+        "year": "2016"
+    },
+    "baseurl": "http://localhost:8080",
+    "assetpath": "/asset",
+    "namespace": "JST"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "spatemplate",
+  "description": "Single-Page-Application template written in TypeScript. Use this template to quickly create your own spa, with minimal effort. Enjoy!",
+  "main": "index.js",
+  "authors": [
+    "Jonas Kirkemyr"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "spa",
+    "typescript"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "hasher": "^1.2.0",
+    "spa": "git@github.com:jonaskirkemyr/spa.git"
+  }
+}

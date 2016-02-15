@@ -1,0 +1,6 @@
+node_modules
+bower_components
+.sass-cache
+.vscode
+src/public
+dist/js/packages
